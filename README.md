@@ -1,4 +1,4 @@
-# Email Classification Model
+# Spam Mail Prediction Model
 
 ## Overview
 
